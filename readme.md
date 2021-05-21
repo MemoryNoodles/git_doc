@@ -16,3 +16,10 @@ git checkout
 git merge
 git log
 git stash  got stash pop
+
+更新
+git fetch
+git pull
+git remote
+git submodule
+

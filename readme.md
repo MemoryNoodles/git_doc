@@ -4,33 +4,35 @@ git 常用操作文档
 # 常规操作
 * git add .  
 * git status
-git restore 
-git commit -m ""
-git reset ^HEAD
-git rm -f
-git mv
+* git restore 
+* git commit -m ""
+* git reset ^HEAD
+* git rm -f
+* git mv
 
 # 切换分支与合并
-git branch -d
-git checkout 
-git merge
-git log
-git stash  got stash pop
+* git branch -d
+* git checkout 
+* git merge
+* git log
+* git stash  got stash pop
 
 # 更新
-git fetch
-git pull
-git remote
-git submodule
+* git fetch
+* git pull
+* git remote
+* git submodule
 
 # 检查与比较
-git show
-git diff
-git shortlog
+* git show
+* git diff
+* git shortlog
 
 # 补丁
-git cherry-pick
-git rebase
+* git cherry-pick
+* git rebase
 
 # debug
-git bisect   git bisect good  git bisect bad   git bisect reset
+* git bisect   
+* git bisect good  git bisect bad   
+* git bisect reset

@@ -2,7 +2,7 @@
 git 常用操作文档
 
 # 常规操作
-git add .
+git add .  
 git status
 git restore 
 git commit -m ""
@@ -27,5 +27,10 @@ git submodule
 git show
 git diff
 git shortlog
- 
 
+# 补丁
+git cherry-pick
+git rebase
+
+# debug
+git bisect   git bisect good  git bisect bad   git bisect reset

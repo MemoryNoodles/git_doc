@@ -5,3 +5,6 @@ var str = "aaaaaaabbbbbbbb";
 function getLocalTime(nS) {
     return new Date(parseInt(nS) * 1000).toLocaleString().replace(/:\d{1,2}$/, ' ');
 }
+
+var a = str;
+ 

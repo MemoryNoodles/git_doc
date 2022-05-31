@@ -6,5 +6,5 @@ function getLocalTime(nS) {
 }
 
 var a = str;
-var ss = a.substring(0, a.length - 1);
+var b = a.substring(0, 2);
  

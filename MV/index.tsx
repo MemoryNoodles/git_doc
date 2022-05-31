@@ -7,4 +7,4 @@ function getLocalTime(nS) {
 
 var a = str;
 var b = a.substring(0, 2);
- 
+var  c ="3" 
